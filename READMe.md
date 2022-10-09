@@ -6,7 +6,7 @@
   <b>Let's contact with me!</b>
 
   <p align="center">
-    <a href="" alt="Twitter"><img src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" width="60" height="60"></a>
+    <a href="https://twitter.com/emreeakyell" alt="Twitter"><img src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" width="60" height="60"></a>
     <a href="https://www.linkedin.com/in/furkan-emre-akyel-b9999424a/" alt="Linkedin"><img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" width="60" height="60"></a>
     <a href="https://www.instagram.com/ceyrannmuhendisi/" alt="Contact me"><img src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" width="60" height="60"></a>
     
