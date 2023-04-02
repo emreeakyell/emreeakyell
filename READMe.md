@@ -21,6 +21,6 @@
   <img src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" width="60" height="60">
     
 </p>
-https://github-readme-stats.vercel.app/api?username=emreeakyell&show_icons=true&theme=nightowl&count_private=true
+<img src="https://github-readme-stats.vercel.app/api?username=emreeakyell&show_icons=true&theme=nightowl&count_private=true">
 
 <hr>
