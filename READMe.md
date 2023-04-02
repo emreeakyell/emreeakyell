@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#1852E4">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align="center">I'm an Electrical-Electronic Engineering student and Junior Front-End Developer. I'm keen on with web development, so I have been working and practicing HTML, CSS, Javascript, Git, GitHub and React for a long time.</p>
+<p align="center">Hi there! I'm Furkanovski, a Front-End Developer specializing in HTML, CSS, JavaScript, and React. I love working on projects that challenge me and push me to learn new skills. I'm passionate about creating intuitive and user-friendly interfaces that make people's lives easier. When I'm not coding, I enjoy hiking and trying out new recipes in the kitchen. Feel free to check out my GitHub profile to see some of my recent projects, and don't hesitate to reach out if you'd like to collaborate!</p>
 <hr>
 <p align="center">
   <b>Let's contact with me!</b>
