@@ -19,7 +19,6 @@
   <img src="http://resources.spacexchimp.com/images/logos/CSS3.png" width="60" height="60">
   <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="95" height="60">
   <img src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" width="60" height="60">
-  <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" width="60" height="60">
   <img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="60" height="60">
